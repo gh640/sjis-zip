@@ -1,0 +1,12 @@
+{
+    "name": "gh640/sjis-ziparchive",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Goto Hayato",
+            "email": "habita.gh@gmail.com"
+        }
+    ],
+    "require": {}
+}
