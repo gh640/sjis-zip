@@ -1,5 +1,5 @@
 {
-    "name": "gh640/sjis-ziparchive",
+    "name": "gh640/sjis-zip",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -8,5 +8,18 @@
             "email": "habita.gh@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "gh640\\SjisZipArchive\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3"
+    },
+    "scripts": {
+        "test": "phpunit tests"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    }
 }
