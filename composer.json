@@ -1,7 +1,10 @@
 {
     "name": "gh640/sjis-zip",
+    "description": "A utility to handle zip files encoded with Shift-JIS.",
     "type": "library",
     "license": "MIT",
+    "keywords": ["sjis"],
+    "homepage": "https://github.com/gh640/sjis-zip",
     "authors": [
         {
             "name": "Goto Hayato",
