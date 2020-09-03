@@ -20,7 +20,7 @@ $extractor = Extractor::create('src.zip');
 $items = $extractor->items();
 
 // Extract the file.
-$extractor->extrac('path/to/dest');
+$extractor->extract('path/to/dest');
 ```
 
 ## License
